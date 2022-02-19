@@ -1,0 +1,25 @@
+.header_container {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  padding-left: 90px;
+  padding-right: 190px;
+  flex-direction: row;
+  background-color: rgb(27, 41, 61);
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_container h1 {
+  color: white;
+}
+
+.header_container button {
+  cursor: pointer;
+  background: none;
+  border-radius: 5px;
+  padding: 5px;
+  outline: none;
+  border: 2px solid #bb69f1;
+  color: white;
+}

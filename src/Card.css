@@ -1,0 +1,21 @@
+.card_container {
+  background: #a8ff78;
+  background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);
+  background: linear-gradient(to right, #78ffd6, #a8ff78);
+  padding: 10px;
+  margin: 15px;
+  border-radius: 20px;
+  color: black;
+  box-shadow: 8px 8px 5px rgb(228, 207, 151);
+  height: 250px;
+  width: 300px;
+}
+
+.card_container img { 
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.card_container h4:first-child {
+  margin-bottom: 20px;
+}
